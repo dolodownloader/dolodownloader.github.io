@@ -1,0 +1,26 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.brighto.dolo",
+      "sha256_cert_fingerprints": [
+        "55:E2:DB:11:16:A2:D1:F5:B1:7B:8A:64:53:72:89:6F:20:DC:B9:EC:AE:D1:3C:35:4C:6D:F7:02:84:F8:3A:00"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.brighto.dolo.direct",
+      "sha256_cert_fingerprints": [
+        "55:E2:DB:11:16:A2:D1:F5:B1:7B:8A:64:53:72:89:6F:20:DC:B9:EC:AE:D1:3C:35:4C:6D:F7:02:84:F8:3A:00"
+      ]
+    }
+  }
+]
